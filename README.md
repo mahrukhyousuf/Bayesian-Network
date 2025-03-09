@@ -1,12 +1,20 @@
-# **Predicting Student Academic Success**  
+# **Predicting Student Academic Success**  - Probablistic Graphical Modelling
 
 ## **Project Overview**  
-This project develops a **Bayesian Network (BN)** model to analyze and predict factors influencing **student academic success**. The model incorporates key variables like **attendance, motivation, teacher quality, and hours studied**, providing probabilistic predictions for student outcomes (**Fail, Pass, Excellent**).  
+This project develops a **Bayesian Network (BN)** model for my course **Probabilistic Graphical Modelling** analyze and predict factors influencing **student academic success**. The model incorporates key variables like **attendance, motivation, teacher quality, and hours studied**, providing probabilistic predictions for student outcomes (**Fail, Pass, Excellent**).  
 
 ## **Why Bayesian Networks?**  
 - Academic success is influenced by **uncertain** and **interdependent** factors.  
 - BNs efficiently model **causal relationships** and **uncertainties** in real-world data.  
-- The model integrates **expert knowledge** and **data-driven learning** for robust predictions.  
+- The model integrates **expert knowledge** and **data-driven learning** for robust predictions.
+
+## Files:
+- IEEE Research Paper - pgm.pdf
+- k2.png
+- domainexp.png
+
+# Programming Language Use:
+Python
 
 ## **Methodology**  
 🔹 **Model Development:** Bayesian Network structure with causal links (e.g., **Teacher Quality → Motivation → Exam Score**).  
